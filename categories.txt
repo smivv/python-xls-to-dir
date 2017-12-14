@@ -1,0 +1,118 @@
+-	No food
+Fish and Seafood	Cod fish
+Fish and Seafood	Fish (Trout) poached
+
+Fish and Seafood	Fish fillet
+Fish and Seafood	Fish fillet, frozen
+Fish and Seafood	Fish in salt
+Fish and Seafood	Steamed fish (salmon fillet)
+
+Fish and Seafood	Stuffed calamari
+Fish and Seafood	Whole fish
+Poultry	Boned poultry
+Poultry	Chicken legs
+Poultry	Chicken wings
+
+Poultry	Chicken, whole
+Poultry	Coq au vin
+Poultry	Duck
+Poultry	Goose
+Poultry	Roast duck with orange
+Poultry	Stuffed chicken
+Poultry	Stuffed chicken breast
+
+Poultry	Turkey
+Meat	Beef casserole
+Meat	Braised meat
+Meat	Game loin
+Meat	Lamb joint
+Meat	Leg of lamb
+Meat	Marinated beef
+Meat	Meat loaf
+Meat	Ossobuco
+Meat	Pork knuckle
+Meat	Pork loin
+Meat	Pork shoulder
+Meat	Rabbit
+Meat	Rabbit in mustard sauce
+Meat	Roast beef
+Meat	Roast game
+Meat	Roast lamb
+Meat	Roast pork
+Meat	Roast veal
+Meat	Scandinavian beef
+Meat	Stuffed veal breast
+Meat	Swedish festive roast
+Meat	Top side beef
+Meat	Veal knuckle
+Meat	Wild boar
+Oven dishes	Cabbage casserole
+Oven dishes	Cannelloni
+Oven dishes	Chicory gratin
+Oven dishes	Franconian dumpling pan
+Oven dishes	Jansons temptation
+Oven dishes	Lasagne
+Oven dishes	Lasagne, Cannelloni, frozen
+Oven dishes	Moussaka
+Oven dishes	Pasta gratin
+Oven dishes	Potato gratin
+Pizza and quiche	Cheese flan
+
+Pizza and quiche	Cheese pastry
+Pizza and quiche	Goat's cheese flan
+Pizza and quiche	Onion tart
+
+Pizza and quiche	Pierogi
+Pizza and quiche	Pizza
+Pizza and quiche	Pizza, American, frozen
+Pizza and quiche	Pizza, chilled
+Pizza and quiche	Pizza, frozen
+Pizza and quiche	Pizza snacks, frozen
+Pizza and quiche	Quiche lorraine
+Cake and pastry	Almond cake
+Cake and pastry	Apple strudel, frozen
+Cake and pastry	Biscuit (sponge cake)
+Cake and pastry	Brownies
+
+
+Cake and pastry	Cappuccino cake
+Cake and pastry	Carrot cake
+Cake and pastry	Cheese cake
+Cake and pastry	Cherry pie
+Cake and pastry	Fruit cake
+Cake and pastry	Fruit tart
+Cake and pastry	Grandma's roast apple cake
+Cake and pastry	Lemon sponge cake
+Cake and pastry	Muffins
+Cake and pastry	Plum dumpling
+Cake and pastry	Ring cake
+Cake and pastry	Savarin cake
+Cake and pastry	Streusel cake
+
+Cake and pastry	Swedish cake
+Cake and pastry	Sweet tart
+
+Cake and pastry	Swiss carrot cake
+Bread and rolls	Farmer bread
+Bread and rolls	Rich yeast plait
+Bread and rolls	Rolls, frozen
+Bread and rolls	Rolls, sweet
+Bread and rolls	White bread
+Bread and rolls	Yeast plait
+Vegetables	Mediterranean vegetables
+Vegetables	Peeling tomatoes
+Vegetables	Traditional vegetables
+
+Custards and terrines	Coconut pudding
+Custards and terrines	Egg custard
+Custards and terrines	Flan caramel
+Side dishes	Boiled potatoes
+
+Side dishes	Croquettes
+Side dishes	French fries (frozen)
+Side dishes	Hash browns
+Side dishes	Potatoes in their jacket
+
+Side dishes	Rice with vegetables
+Side dishes	Salty dumplings
+Side dishes	Wedges
